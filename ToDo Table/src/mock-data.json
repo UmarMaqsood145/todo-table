@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "fullName": "Ahsan",
+      "address": "Burewala",
+      "phoneNumber": "+9232349293",
+      "email": "ahsan@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Ali",
+      "address": "Multan",
+      "phoneNumber": "+034034534574",
+      "email": "aligmail.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Usman",
+      "address": "Lahore, Pakistan",
+      "phoneNumber": "+92123456789",
+      "email": "usman@gmail.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Arslan",
+      "address": "Sahiwal",
+      "phoneNumber": "+923023929381",
+      "email": "arslan@gmail.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Zeeshan",
+      "address": "Arifwala",
+      "phoneNumber": "+923219238228",
+      "email": "zeeshan 123@gmail.com"
+    }
+  ]

@@ -1,0 +1,71 @@
+.app-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 1rem;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,70,121,1) 39%, rgba(7,94,144,1) 56%, rgba(0,212,255,1) 100%);
+    height: 600px; 
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th,
+  td {
+    border: 1px solid #ffffff;
+    text-align: left;
+    padding: 8px;
+    font-size: 15px;
+  }
+  
+  th {
+    background-color: rgba(9,70,121,1);
+    color: white;
+  }
+  
+  td {
+    background-color: rgb(221, 237, 247);
+  }
+  
+  form {
+    display: flex;
+    gap: 5px;
+  }
+  
+  form td:last-child {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  form * {
+    font-size: 20px;
+  }
+  button{
+      cursor: pointer;
+      background: rgba(0,212,255,1);
+      border: none;
+      outline: none;
+      color: white;
+      border-radius: 5px;
+  }
+
+  #formSet{
+      margin-left: 80px;
+  }
+
+  #formSet h2{
+    font-size: 35px;
+    color: white;
+    text-align: center;
+  }
+
+  #formSet input{
+      margin-left: 10px;
+  }
+  #formSet button{
+      margin-left: 10px;
+      background: rgba(2,0,36,1) ;
+      color: rgba(0,212,255,1);
+  }
